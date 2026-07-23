@@ -25,10 +25,18 @@ No build tools, no installs — everything here runs straight in the browser.
 Everything in this repo is free to use, copy, modify, and build on. No license, no restrictions, no attribution required — just take what's useful to you.
 
 ## 👤 Author
-https://linktr.ee/mart1nsay0
+
 **Xcupid** (Martins Ayomide)
 Frontend Web Developer | Video Editor & Content Creator
 © 2026
 ---
+
+## 🔗 Links
+
+- [Linktree](https://linktr.ee/mart1nsay0)
+- [YouTube](https://youtube.com/@martinsplays4k?si=gaZlW8pk2iANyPfM)
+- [TikTok](https://tiktok.com/@martinsplays)
+- [My Website](https://martinsayomide.kesug.com)
+
 
 ⭐ If something here helps you, a star on the repo is always appreciated.
