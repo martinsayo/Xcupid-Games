@@ -8,8 +8,8 @@ Each game lives in its own folder with its own code and README.
 
 | Project | Description | Tech |
 |---|---|---|
-| [Snake Deluxe 🐍] | Classic Snake game with responsive canvas, on-screen controls, and animated food | HTML, CSS, JavaScript |
-| [Standing fan 🪭]| Classic standing fan with responsive canvas, on-screen controls, and animated buttons | HTML, CSS, JavaScript |
+| Snake Deluxe 🐍| Classic Snake game with responsive canvas, on-screen controls, and animated food | HTML, CSS, JavaScript |
+| Standing fan 🪭| Classic standing fan with responsive canvas, on-screen controls, and animated buttons | HTML, CSS, JavaScript |
 
 *More projects will be added here as they're built.*
 
@@ -25,10 +25,10 @@ No build tools, no installs — everything here runs straight in the browser.
 Everything in this repo is free to use, copy, modify, and build on. No license, no restrictions, no attribution required — just take what's useful to you.
 
 ## 👤 Author
-
+https://linktr.ee/mart1nsay0
 **Xcupid** (Martins Ayomide)
 Frontend Web Developer | Video Editor & Content Creator
-
+© 2026
 ---
 
 ⭐ If something here helps you, a star on the repo is always appreciated.
