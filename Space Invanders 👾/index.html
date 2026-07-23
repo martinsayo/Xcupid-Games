@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Space Invaders</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="game-container">
+    <h1>Space Invaders</h1>
+    <p id="wave">Wave 1</p>
+    <p id="score">Score: 0</p>
+    <canvas id="game"></canvas>
+
+    <div class="controls">
+      <button id="left" class="ctrl-btn">◀</button>
+      <button id="shoot" class="ctrl-btn shoot-btn">🔥</button>
+      <button id="right" class="ctrl-btn">▶</button>
+    </div>
+
+    <button id="special" class="special-btn">⚡ SPECIAL</button>
+    <button id="restart" class="restart-btn">Restart</button>
+    <p id="game-over" class="hidden">Game Over!</p>
+  </div>
+
+  <footer class="watermark">Built by xcupidevs (Martins Ayomide)</footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
