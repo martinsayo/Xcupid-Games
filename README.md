@@ -8,9 +8,9 @@ Each game lives in its own folder with its own code and README.
 
 | Project | Description | Tech |
 |---|---|---|
-| [snake](./snake) | Classic Snake game with responsive canvas, on-screen controls, and animated food | HTML, CSS, JavaScript |
-| [space-invaders](./space-invaders) | Space Invaders with infinite scaling waves, a special weapon, and a shield pickup | HTML, CSS, JavaScript |
-| [doodle-jump](./doodle-jump) | Endless platform jumper with breakable/boost/moving platforms and a leveling system | HTML, CSS, JavaScript |
+| Snake Deluxe 🐍| Classic Snake game with responsive canvas, on-screen controls, and animated food | HTML, CSS, JavaScript |
+| Space Invaders 👾| Space Invaders with infinite scaling waves, a special weapon, and a shield pickup | HTML, CSS, JavaScript |
+| Jump 2d 🦘 | Endless platform jumper with breakable/boost/moving platforms and a leveling system | HTML, CSS, JavaScript |
 
 *More projects will be added here as they're built.*
 
