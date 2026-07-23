@@ -8,8 +8,8 @@ Each game lives in its own folder with its own code and README.
 
 | Project | Description | Tech |
 |---|---|---|
-| [snake](./snake) | Classic Snake game with responsive canvas, on-screen controls, and animated food | HTML, CSS, JavaScript |
-| [standing fan](./fan) | Classic standing fan with responsive canvas, on-screen controls, and animated buttons | HTML, CSS, JavaScript |
+| [Snake Deluxe 🐍] | Classic Snake game with responsive canvas, on-screen controls, and animated food | HTML, CSS, JavaScript |
+| [Standing fan 🪭]| Classic standing fan with responsive canvas, on-screen controls, and animated buttons | HTML, CSS, JavaScript |
 
 *More projects will be added here as they're built.*
 
